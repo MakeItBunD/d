@@ -1,0 +1,15 @@
+body {
+    margin: 0;
+    padding: 30px;
+    background: url("https://million-wallpapers.com/wallpapers/1/47/417557172257179/wall-painted-heart.jpg") no-repeat;
+    display: flex;
+    justify-content: space-around;
+    align-items: flex-start;
+    flex-flow: wrap;
+    background-attachment: fixed;
+}
+img {
+    margin: 0 10px 30px 10px;
+    border-radius: 10px;
+    cursor: pointer;
+}
